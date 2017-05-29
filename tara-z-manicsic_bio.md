@@ -3,3 +3,7 @@ Tara (@tzmanics) is a life-long student, teacher and maker. She has spent her ca
 https://www.youtube.com/watch?v=j2S5OrMUj9g (ngConf)
 https://www.youtube.com/watch?v=njsvP3x_WS0&index=11&list=PLHq0FpphrOrCvSYyy27JZYI56k2HUKGbP (WTM Montreal)
 https://www.youtube.com/watch?v=5KOJDUCD8Ag&t=1330s (tech cafeteria)
+
+https://github.com/tzmanics
+
+http://bit.ly/2r325Qm
