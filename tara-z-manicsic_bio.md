@@ -1,4 +1,4 @@
-Tara (@tzmanics) is a life-long student, teacher and maker. She has spent her career using JavaScript on both back-end and front-end to create applications. In her free time she works in her community to educate and learn from other developers. Tara launched & directs the Cincinnati Chapter of Women Who Code and helped launch & co-chairs the Cincinnati branch of NodeSchool. Beyond code, she likes to make things with other materials (wool, solder, clay, etc.) and hike any mountain she can get to with her trusty sidekick, #toshmagosh.
+Tara Z. Manicsic (@tzmanics) is a lifelong student, teacher, maker and, recently, a Google Developer Expert. She has spent her career using JavaScript on both back-end and front-end to create applications. In her free time she works in her community to educate and learn from other developers. Tara launched & directs the Cincinnati Chapter of Women Who Code and the Cincinnati branch of NodeSchool. Beyond code, she likes to make thins with other materials (wool, solder, clay, etc.) and hikes any mountain she can get to with her trusty sidekick, #toshmagosh.
 
 https://www.youtube.com/watch?v=j2S5OrMUj9g (ngConf)
 
