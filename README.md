@@ -5,7 +5,7 @@ https://github.com/tzmanics
 
 https://twitter.com/Tzmanics
 
-https://tzmanics.com
+https://tzmanics.dev
 
 http://bit.ly/2r325Qm
 
