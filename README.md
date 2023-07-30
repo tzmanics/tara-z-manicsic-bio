@@ -13,6 +13,9 @@ https://tzmanics.dev
 
 http://bit.ly/2r325Qm
 
+## Talks
+[Processes for the Process-Averse - TechLeadConf 2023](https://portal.gitnation.org/contents/processes-for-the-process-averse)
+
 https://www.youtube.com/watch?v=QATVDJ1HvHY (devReach) 
 
 https://www.youtube.com/watch?v=j2S5OrMUj9g (ngConf)
